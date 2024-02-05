@@ -3,7 +3,3 @@
 <h1 align="center">¡HOLA MUNDO!</h1>
   <h2 align="center">Soy Mario, estudiante de 42 Madrid.</h2>
 </div>
----
-###Sobre mi:
-Aprendo a programar en C.
-Conozco HTML a un nivel muy básico.
